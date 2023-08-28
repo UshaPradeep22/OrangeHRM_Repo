@@ -1,0 +1,4 @@
+OrangeHRM\HRMAutomation\PageObjects\LoginPageWebElements.class
+OrangeHRM\HRMAutomation\Testcases\BaseClass.class
+OrangeHRM\HRMAutomation\Utilities\ReadConfig.class
+OrangeHRM\HRMAutomation\Testcases\TC1_OrangeHRM_LoginPage.class
